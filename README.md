@@ -6,13 +6,33 @@ Bot WhatsApp Toko Papi adalah solusi otomatisasi untuk mempermudah interaksi pel
 ---
 
 ## Fitur Utama
-1. **Salam Awal** - Menyambut pelanggan dengan pesan sambutan dan daftar opsi layanan.
-2. **Promo Terkini** - Menampilkan daftar promo yang tersedia.
-3. **Daftar Produk** - Memberikan daftar produk yang tersedia di toko.
-4. **Pencarian Produk** - Mencari produk berdasarkan kata kunci.
-5. **Informasi Toko** - Menyediakan informasi lokasi, jam operasional, dan kontak toko.
-6. **FAQs** - Menjawab pertanyaan umum tentang layanan toko.
-7. **Panduan Bantuan** - Memberikan panduan penggunaan bot.
+1. **Salam Awal**
+   - Ketik: `Halo`, `Hi`, `Hello`, `Permisi`, atau `Assalamualaikum`
+   - Respon: Menampilkan pesan sambutan dengan opsi yang tersedia di Toko Papi.
+
+2. **Promo Terkini**
+   - Ketik: `promo`
+   - Respon: Daftar promo terkini di Toko Papi.
+
+3. **Daftar Produk**
+   - Ketik: `produk`
+   - Respon: Daftar lengkap produk yang tersedia di Toko Papi.
+
+4. **Pencarian Produk**
+   - Ketik: `#NamaProduk` (contoh: `#Coklat`)
+   - Respon: Informasi detail tentang produk yang dicari, termasuk gambar dan deskripsi.
+
+5. **Informasi Toko**
+   - Ketik: `info`
+   - Respon: Informasi lokasi, jam operasional, dan kontak Toko Papi.
+
+6. **Pertanyaan Umum (FAQs)**
+   - Ketik: `faqs`
+   - Respon: Jawaban atas pertanyaan umum tentang Toko Papi.
+
+7. **Panduan Bantuan**
+   - Ketik: `!help`
+   - Respon: Panduan penggunaan bot WhatsApp.
 
 ---
 
