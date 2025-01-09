@@ -131,6 +131,4 @@ Untuk kontribusi lebih lanjut, silakan buka pull request atau kirimkan issue.
 
 ## Kontak
 Untuk informasi lebih lanjut, hubungi:
-- **Email:** service@papi.store
-- **WhatsApp:** 0822-xxx-xx21
-
+- **Instagram:** @faris_sajha
