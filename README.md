@@ -97,11 +97,6 @@ Bot WhatsApp Toko Papi adalah solusi otomatisasi untuk mempermudah interaksi pel
 
 ---
 
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
-
 ## Kontributor
 - **Nama Anda** - Pengembang utama
 
