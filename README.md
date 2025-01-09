@@ -98,7 +98,12 @@ Bot WhatsApp Toko Papi adalah solusi otomatisasi untuk mempermudah interaksi pel
 ---
 
 ## Kontributor
-- **Nama Anda** - Pengembang utama
+- **Faris Sulianto** - Pengembang utama
+- Ahmad Pandu Prastian (2313030013) 
+- Akbar Eka Saputra 
+- Diva Nur Huda  
+- Faiqa Wafa Fiqh
+- Tri Vera Wahyuningsih
 
 Untuk kontribusi lebih lanjut, silakan buka pull request atau kirimkan issue.
 
